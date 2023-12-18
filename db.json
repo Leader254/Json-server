@@ -1,0 +1,12 @@
+{
+    "signupUsersList": [
+      {
+        "firstName": "Samuel",
+        "lastName": "Wachira",
+        "email": "samuelwachira219@gmail.com",
+        "password": "Samuel@gmail2",
+        "confirmPassword": "Samuel@gmail2",
+        "id": 4
+      }
+    ]
+  }
